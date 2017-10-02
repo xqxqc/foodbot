@@ -1,9 +1,12 @@
 # foodbot
 
-1. Determining nearest canteen 
+
+1. Determine nearest canteens
 
 2. Check for food preferences
 
-3. Draw food reviews from database 
+3. Introduce food stalls based on reviews
 
-4. ALLOW USERS TO MAKE INFORMED DECISIONS 
+\\limitations\\
+restaurants not included
+reviews - local vs yelp 
