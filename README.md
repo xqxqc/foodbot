@@ -1,9 +1,9 @@
 
 
 #TODOS.
-1. Fix inline keyboard omg
+1. Fix inline keyboard omg - DONE
 
-2. Determine nearest canteens
+2. Determine nearest canteens - DONE
 
 / type database
 
