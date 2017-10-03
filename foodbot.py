@@ -43,8 +43,6 @@ def on_chat_message(msg):
                 else :#user to give location / type food preference
                         bot.sendMessage(chat_id, 'Welcome to NTU Food Bot, \nWhat can I do for you?', reply_markup = Welcome_Keyboard())
         #=============== REQUEST FOR LOCATION ========================
-        elif content_type == 'Get_Location':
-                
         elif content_type == 'location':
                 #================= Do location stuff here. Nearest dist can use Pythagoreas ===============
                 print("Do location stuff here")
