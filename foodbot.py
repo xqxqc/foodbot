@@ -56,7 +56,7 @@ def on_chat_message(msg):
                                 if 'Vietnamese' in msg['text']:
                                         print('GIMME THE Vietnamese FOOD REVIEW OH MY GOD')
                                 #================= if type of food not determined ===============
-                                else:                                        
+                                else:                                         
                                         bot.sendMessage(chat_id, 'What food type?', reply_markup = Halal1_Preference_Keyboard())
                 #================== same as above=====================
                 elif '(V)' in msg['text'] :
