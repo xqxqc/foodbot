@@ -68,6 +68,9 @@ def Nearest_Canteen(x,y):
 def Welcome_Keyboard():
     tmp = ReplyKeyboardMarkup(keyboard = [
     [KeyboardButton(text='Get_Location', request_location=True)],
+    [KeyboardButton(text = 'Halal Preference')],
+    [KeyboardButton(text = 'Vegetarian')],
+    [KeyboardButton(text = 'No Preference')]
     ],
     one_time_keyboard=True
     )
