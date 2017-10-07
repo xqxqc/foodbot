@@ -190,105 +190,105 @@ def No_Preference_Keyboard():
 
 def No1_Preference_Keyboard():
     tmp = ReplyKeyboardMarkup(keyboard = [
-    [KeyboardButton(text = 'Canteen 1 (H) Japanese')],
-    [KeyboardButton(text = 'Canteen 1 (H) Chinese')],
-    [KeyboardButton(text = 'Canteen 1 (H) Western')],
+    [KeyboardButton(text = 'Canteen 1 (N) Japanese')],
+    [KeyboardButton(text = 'Canteen 1 (N) Chinese')],
+    [KeyboardButton(text = 'Canteen 1 (N) Western')],
     ])
     return tmp
 
 def No2_Preference_Keyboard():
     tmp = ReplyKeyboardMarkup(keyboard = [
-    [KeyboardButton(text = 'Canteen 2 (H) Korean')],
-    [KeyboardButton(text = 'Canteen 2 (H) Chinese')],
-    [KeyboardButton(text = 'Canteen 2 (H) Western')],
-    [KeyboardButton(text = 'Canteen 2 (H) Malay')],
+    [KeyboardButton(text = 'Canteen 2 (N) Korean')],
+    [KeyboardButton(text = 'Canteen 2 (N) Chinese')],
+    [KeyboardButton(text = 'Canteen 2 (N) Western')],
+    [KeyboardButton(text = 'Canteen 2 (N) Malay')],
     ])
     return tmp
 
 def No4_Preference_Keyboard():
     tmp = ReplyKeyboardMarkup(keyboard = [
-    [KeyboardButton(text = 'Canteen 4 (H) Chinese')],
+    [KeyboardButton(text = 'Canteen 4 (N) Chinese')],
     ])
     return tmp
 
 def No9_Preference_Keyboard():
     tmp = ReplyKeyboardMarkup(keyboard = [
-    [KeyboardButton(text = 'Canteen 9 (H) Chinese')],
-    [KeyboardButton(text = 'Canteen 9 (H) Western')],
-    [KeyboardButton(text = 'Canteen 9 (H) Indian')],
+    [KeyboardButton(text = 'Canteen 9 (N) Chinese')],
+    [KeyboardButton(text = 'Canteen 9 (N) Western')],
+    [KeyboardButton(text = 'Canteen 9 (N) Indian')],
     ])
     return tmp
 
 def No11_Preference_Keyboard():
     tmp = ReplyKeyboardMarkup(keyboard = [
-    [KeyboardButton(text = 'Canteen 11 (H) Korean')],
-    [KeyboardButton(text = 'Canteen 11 (H) Japanese')],
-    [KeyboardButton(text = 'Canteen 11 (H) Chinese')],
-    [KeyboardButton(text = 'Canteen 11 (H) Western')],
-    [KeyboardButton(text = 'Canteen 11 (H) Indian')],
+    [KeyboardButton(text = 'Canteen 11 (N) Korean')],
+    [KeyboardButton(text = 'Canteen 11 (N) Japanese')],
+    [KeyboardButton(text = 'Canteen 11 (N) Chinese')],
+    [KeyboardButton(text = 'Canteen 11 (N) Western')],
+    [KeyboardButton(text = 'Canteen 11 (N) Indian')],
     ])
     return tmp
 
 def No13_Preference_Keyboard():
     tmp = ReplyKeyboardMarkup(keyboard = [
-    [KeyboardButton(text = 'Canteen 13 (H) Korean')],
-    [KeyboardButton(text = 'Canteen 13 (H) Japanese')],
-    [KeyboardButton(text = 'Canteen 13 (H) Chinese')],
-    [KeyboardButton(text = 'Canteen 13 (H) Western')],
+    [KeyboardButton(text = 'Canteen 13 (N) Korean')],
+    [KeyboardButton(text = 'Canteen 13 (N) Japanese')],
+    [KeyboardButton(text = 'Canteen 13 (N) Chinese')],
+    [KeyboardButton(text = 'Canteen 13 (N) Western')],
     ])
     return tmp
 
 def No14_Preference_Keyboard():
     tmp = ReplyKeyboardMarkup(keyboard = [
-    [KeyboardButton(text = 'Canteen 14 (H) Chinese')],
-    [KeyboardButton(text = 'Canteen 14 (H) Malay')],
+    [KeyboardButton(text = 'Canteen 14 (N) Chinese')],
+    [KeyboardButton(text = 'Canteen 14 (N) Malay')],
     ])
     return tmp
 
 def No16_Preference_Keyboard():
     tmp = ReplyKeyboardMarkup(keyboard = [
-    [KeyboardButton(text = 'Canteen 16 (H) Japanese')],
-    [KeyboardButton(text = 'Canteen 16 (H) Chinese')],
-    [KeyboardButton(text = 'Canteen 16 (H) Indian')],
+    [KeyboardButton(text = 'Canteen 16 (N) Japanese')],
+    [KeyboardButton(text = 'Canteen 16 (N) Chinese')],
+    [KeyboardButton(text = 'Canteen 16 (N) Indian')],
     ])
     return tmp
 
 def NoNH_Preference_Keyboard():
     tmp = ReplyKeyboardMarkup(keyboard = [
-    [KeyboardButton(text = 'North Hill Canteen (H) Chinese')],
-    [KeyboardButton(text = 'North Hill Canteen (H) Western')],
-    [KeyboardButton(text = 'North Hill Canteen (H) Malay')],
-    [KeyboardButton(text = 'North Hill Canteen (H) Indian')],
+    [KeyboardButton(text = 'North Hill Canteen (N) Chinese')],
+    [KeyboardButton(text = 'North Hill Canteen (N) Western')],
+    [KeyboardButton(text = 'North Hill Canteen (N) Malay')],
+    [KeyboardButton(text = 'North Hill Canteen (N) Indian')],
     ])
     return tmp
 
 def NoNS_Preference_Keyboard():
     tmp = ReplyKeyboardMarkup(keyboard = [
-    [KeyboardButton(text = 'North Spine Canteen (H) Korean')],
-    [KeyboardButton(text = 'North Spine Canteen (H) Japanese')],
-    [KeyboardButton(text = 'North Spine Canteen (H) Chinese')],
-    [KeyboardButton(text = 'North Spine Canteen (H) Western')],
-    [KeyboardButton(text = 'North Spine Canteen (H) Malay')],
-    [KeyboardButton(text = 'North Spine Canteen (H) Indian')],
-    [KeyboardButton(text = 'North Spine Canteen (H) Vietnamese')],
+    [KeyboardButton(text = 'North Spine Canteen (N) Korean')],
+    [KeyboardButton(text = 'North Spine Canteen (N) Japanese')],
+    [KeyboardButton(text = 'North Spine Canteen (N) Chinese')],
+    [KeyboardButton(text = 'North Spine Canteen (N) Western')],
+    [KeyboardButton(text = 'North Spine Canteen (N) Malay')],
+    [KeyboardButton(text = 'North Spine Canteen (N) Indian')],
+    [KeyboardButton(text = 'North Spine Canteen (N) Vietnamese')],
     ])
     return tmp
 
 def NoSS_Preference_Keyboard():
     tmp = ReplyKeyboardMarkup(keyboard = [
-    [KeyboardButton(text = 'South Spine Canteen (H) Japanese')],
-    [KeyboardButton(text = 'South Spine Canteen (H) Chinese')],
-    [KeyboardButton(text = 'South Spine Canteen (H) Western')],
-    [KeyboardButton(text = 'South Spine Canteen (H) Malay')],
-    [KeyboardButton(text = 'South Spine Canteen (H) Indian')],
+    [KeyboardButton(text = 'South Spine Canteen (N) Japanese')],
+    [KeyboardButton(text = 'South Spine Canteen (N) Chinese')],
+    [KeyboardButton(text = 'South Spine Canteen (N) Western')],
+    [KeyboardButton(text = 'South Spine Canteen (N) Malay')],
+    [KeyboardButton(text = 'South Spine Canteen (N) Indian')],
     ])
     return tmp
 
 def NoNIE_Preference_Keyboard():
     tmp = ReplyKeyboardMarkup(keyboard = [
-    [KeyboardButton(text = 'NIE Canteen (H) Chinese')],
-    [KeyboardButton(text = 'NIE Canteen (H) Western')],
-    [KeyboardButton(text = 'NIE Canteen (H) Malay')],
-    [KeyboardButton(text = 'NIE Canteen (H) Indian')],
+    [KeyboardButton(text = 'NIE Canteen (N) Chinese')],
+    [KeyboardButton(text = 'NIE Canteen (N) Western')],
+    [KeyboardButton(text = 'NIE Canteen (N) Malay')],
+    [KeyboardButton(text = 'NIE Canteen (N) Indian')],
     ])
     return tmp
