@@ -43,7 +43,7 @@ def on_chat_message(msg):
                                 #================= if type of food has been determined... =======
                                 if 'Malay' in msg['text']:
                                         print('GIMME THE Malay FOOD REVIEW OH MY GOD')
-                                        bot.sendMessage(chat_id, 'Store(s) Available: \nAyam Penyet')
+                                        bot.sendMessage(chat_id, 'Store(s) Available: \nAyam Penyet ⭐⭐⭐⭐⭐')
                                         sys.exit()
                                 #================= if type of food not determined ===============
                                 else:
@@ -53,7 +53,7 @@ def on_chat_message(msg):
                                 #================= if type of food has been determined... =======
                                 if 'Malay' in msg['text']:
                                         print('GIMME THE Malay FOOD REVIEW OH MY GOD')
-                                        bot.sendMessage(chat_id, 'Store(s) Available: \nMuslim Malay')
+                                        bot.sendMessage(chat_id, 'Store(s) Available: \nMuslim Malay ⭐⭐⭐⭐')
                                         sys.exit()
                                 #================= if type of food not determined ===============
                                 else:
@@ -63,7 +63,7 @@ def on_chat_message(msg):
                                 #================= if type of food has been determined... =======
                                 if 'Indian' in msg['text']:
                                         print('GIMME THE Indian FOOD REVIEW OH MY GOD')
-                                        bot.sendMessage(chat_id, 'Store(s) Available: \nIndian Food')
+                                        bot.sendMessage(chat_id, 'Store(s) Available: \nIndian Food ⭐⭐')
                                         sys.exit()
                                 #================= if type of food not determined ===============
                                 else:
@@ -73,15 +73,15 @@ def on_chat_message(msg):
                                 #================= if type of food has been determined... =======
                                 if 'Chinese' in msg['text']:
                                         print('GIMME THE Chinese FOOD REVIEW OH MY GOD')
-                                        bot.sendMessage(chat_id, 'Store(s) Available: \nChicken Rice')
+                                        bot.sendMessage(chat_id, 'Store(s) Available: \nChicken Rice ⭐⭐')
                                         sys.exit()
                                 if 'Malay' in msg['text']:
                                         print('GIMME THE Malay FOOD REVIEW OH MY GOD')
-                                        bot.sendMessage(chat_id, 'Store(s) Available: \nNasi Padang And Indian Cuisine')
+                                        bot.sendMessage(chat_id, 'Store(s) Available: \nNasi Padang And Indian Cuisine ⭐⭐⭐')
                                         sys.exit()
                                 if 'Indian' in msg['text']:
                                         print('GIMME THE Indian FOOD REVIEW OH MY GOD')
-                                        bot.sendMessage(chat_id, 'Store(s) Available: \nNasi Padang And Indian Cuisine')
+                                        bot.sendMessage(chat_id, 'Store(s) Available: \nNasi Padang And Indian Cuisine ⭐⭐⭐')
                                         sys.exit()
                                 #================= if type of food not determined ===============
                                 else:
@@ -91,15 +91,15 @@ def on_chat_message(msg):
                                 #================= if type of food has been determined... =======
                                 if 'Chinese' in msg['text']:
                                         print('GIMME THE Chinese FOOD REVIEW OH MY GOD')
-                                        bot.sendMessage(chat_id, 'Store(s) Available: \nVegetarian Food')
+                                        bot.sendMessage(chat_id, 'Store(s) Available: \nVegetarian Food ⭐⭐')
                                         sys.exit()
                                 if 'Malay' in msg['text']:
                                         print('GIMME THE Malay FOOD REVIEW OH MY GOD')
-                                        bot.sendMessage(chat_id, 'Store(s) Available: \nMalay BBQ')
+                                        bot.sendMessage(chat_id, 'Store(s) Available: \nMalay BBQ ⭐⭐')
                                         sys.exit()
                                 if 'Indian' in msg['text']:
                                         print('GIMME THE Indian FOOD REVIEW OH MY GOD')
-                                        bot.sendMessage(chat_id, 'Store(s) Available: \nIndian Cuisine')
+                                        bot.sendMessage(chat_id, 'Store(s) Available: \nIndian Cuisine ⭐')
                                         sys.exit()
                                 #================= if type of food not determined ===============
                                 else:
@@ -109,15 +109,15 @@ def on_chat_message(msg):
                                 #================= if type of food has been determined... =======
                                 if 'Chinese' in msg['text']:
                                         print('GIMME THE Chinese FOOD REVIEW OH MY GOD')
-                                        bot.sendMessage(chat_id, 'Store(s) Available: \nBan Mian Fish Soup \nYong Tau Foo')
+                                        bot.sendMessage(chat_id, 'Store(s) Available: \nBan Mian Fish Soup ⭐⭐⭐⭐\nYong Tau Foo ⭐⭐⭐')
                                         sys.exit()
                                 if 'Malay' in msg['text']:
                                         print('GIMME THE Malay FOOD REVIEW OH MY GOD')
-                                        bot.sendMessage(chat_id, 'Store(s) Available: \nNasi Padang')
+                                        bot.sendMessage(chat_id, 'Store(s) Available: \nNasi Padang ⭐⭐⭐')
                                         sys.exit()
                                 if 'Indian' in msg['text']:
                                         print('GIMME THE Indian FOOD REVIEW OH MY GOD')
-                                        bot.sendMessage(chat_id, 'Store(s) Available: \nIndian Cuisine')
+                                        bot.sendMessage(chat_id, 'Store(s) Available: \nIndian Cuisine ⭐⭐⭐')
                                         sys.exit()
                                 #================= if type of food not determined ===============
                                 else:
@@ -127,15 +127,15 @@ def on_chat_message(msg):
                                 #================= if type of food has been determined... =======
                                 if 'Chinese' in msg['text']:
                                         print('GIMME THE Chinese FOOD REVIEW OH MY GOD')
-                                        bot.sendMessage(chat_id, 'Store(s) Available: \nVegetarian')
+                                        bot.sendMessage(chat_id, 'Store(s) Available: \nVegetarian ⭐⭐⭐⭐')
                                         sys.exit()
                                 if 'Western' in msg['text']:
                                         print('GIMME THE Western FOOD REVIEW OH MY GOD')
-                                        bot.sendMessage(chat_id, 'Store(s) Available: \nWestern Food')
+                                        bot.sendMessage(chat_id, 'Store(s) Available: \nWestern Food ⭐⭐⭐⭐')
                                         sys.exit()
                                 if 'Malay' in msg['text']:
                                         print('GIMME THE Malay FOOD REVIEW OH MY GOD')
-                                        bot.sendMessage(chat_id, 'Store(s) Available: \nNasi Padang \nMuslim Food')
+                                        bot.sendMessage(chat_id, 'Store(s) Available: \nNasi Padang ⭐⭐\nMuslim Food ⭐⭐⭐')
                                         sys.exit()
                                 #================= if type of food not determined ===============
                                 else:
@@ -148,15 +148,15 @@ def on_chat_message(msg):
                         #================= canteen preferences.....==========
                         if 'North Spine Canteen' in msg['text']:
                                 print('NORTH SPINEZ')
-                                bot.sendMessage(chat_id, 'Stall(s) Available:\nVegetarian Food')
+                                bot.sendMessage(chat_id, 'Stall(s) Available:\nVegetarian Food ⭐⭐')
                                 sys.exit()
                         elif 'South Spine Canteen' in msg['text']:
                                 print('SOUTH SPINEZ')
-                                bot.sendMessage(chat_id, 'Stall(s) Available:\nVegetarian')
+                                bot.sendMessage(chat_id, 'Stall(s) Available:\nVegetarian ⭐⭐⭐⭐⭐')
                                 sys.exit()
                         elif 'NIE Canteen' in msg['text']:
                                 print('NIE')
-                                bot.sendMessage(chat_id, 'Stall(s) Available:\nVegetarian')
+                                bot.sendMessage(chat_id, 'Stall(s) Available:\nVegetarian ⭐⭐⭐⭐')
                                 sys.exit()
 			#================== if canteen preference not determined ==================
                         else:
@@ -166,19 +166,19 @@ def on_chat_message(msg):
                 #=================sub branching for food preference ...======
                 elif '(N)' in msg['text'] :
                         #================= canteen preferences.....==========
-                        if 'Canteen 1 (N)' in msg['text']:
+                        if 'Canteen 1' in msg['text']:
                                 #================= if type of food has been determined... =======
                                 if 'Japanese' in msg['text']:
                                         print('GIMME THE Japanese FOOD REVIEW OH MY GOD')
-                                        bot.sendMessage(chat_id, 'Store(s) Available: \nMenya Takashi')
+                                        bot.sendMessage(chat_id, 'Store(s) Available: \nMenya Takashi ⭐⭐⭐⭐⭐')
                                         sys.exit()
                                 if 'Chinese' in msg['text']:
                                         print('GIMME THE Chinese FOOD REVIEW OH MY GOD')
-                                        bot.sendMessage(chat_id, 'Store(s) Available: \nMala Talk\nHandmade Noodle\nBraised Rice And Noodle\nChinese Cuisine\nEconomical Rice')
+                                        bot.sendMessage(chat_id, 'Store(s) Available: \nMala Talk ⭐⭐⭐\nHandmade Noodle ⭐⭐\nBraised Rice And Noodle ⭐⭐⭐\nChinese Cuisine ⭐⭐⭐⭐\nEconomical Rice ⭐⭐⭐⭐')
                                         sys.exit()
                                 if 'Western' in msg['text']:
                                         print('GIMME THE Western FOOD REVIEW OH MY GOD')
-                                        bot.sendMessage(chat_id, 'Store(s) Available: \nWestern Cuisine')
+                                        bot.sendMessage(chat_id, 'Store(s) Available: \nWestern Cuisine ⭐⭐⭐')
                                         sys.exit()
                                 #================= if type of food not determined ===============
                                 else:
@@ -188,19 +188,19 @@ def on_chat_message(msg):
                                 #================= if type of food has been determined... =======
                                 if 'Korean' in msg['text']:
                                         print('GIMME THE Korean FOOD REVIEW OH MY GOD')
-                                        bot.sendMessage(chat_id, 'Store(s) Available: \nKorean Cuisine')
+                                        bot.sendMessage(chat_id, 'Store(s) Available: \nKorean Cuisine ⭐⭐⭐⭐')
                                         sys.exit()
                                 if 'Chinese' in msg['text']:
                                         print('GIMME THE Chinese FOOD REVIEW OH MY GOD')
-                                        bot.sendMessage(chat_id, 'Store(s) Available: \nChicken Rice\nXiao Long Bao\nYong Tau Foo\nSichuan Cuisine\nShandong Big Bao\nEconomical Rice')
+                                        bot.sendMessage(chat_id, 'Store(s) Available: \nChicken Rice ⭐⭐⭐\nXiao Long Bao ⭐⭐⭐⭐\nYong Tau Foo ⭐⭐\nSichuan Cuisine ⭐⭐⭐⭐\nShandong Big Bao ⭐⭐\nEconomical Rice ⭐')
                                         sys.exit()
                                 if 'Western' in msg['text']:
                                         print('GIMME THE Western FOOD REVIEW OH MY GOD')
-                                        bot.sendMessage(chat_id, 'Store(s) Available: \nKath’s Bakery\nThe Oven')
+                                        bot.sendMessage(chat_id, 'Store(s) Available: \nKath’s Bakery ⭐⭐⭐\nThe Oven ⭐⭐⭐⭐')
                                         sys.exit()
                                 if 'Malay' in msg['text']:
                                         print('GIMME THE Malay FOOD REVIEW OH MY GOD')
-                                        bot.sendMessage(chat_id, 'Store(s) Available: \nAyam Penyet')
+                                        bot.sendMessage(chat_id, 'Store(s) Available: \nAyam Penyet ⭐⭐⭐⭐⭐')
                                         sys.exit()
                                 #================= if type of food not determined ===============
                                 else:
@@ -210,7 +210,7 @@ def on_chat_message(msg):
                                 #================= if type of food has been determined... =======
                                 if 'Chinese' in msg['text']:
                                         print('GIMME THE Chinese FOOD REVIEW OH MY GOD')
-                                        bot.sendMessage(chat_id, 'Store(s) Available: \nZi Char / Fried Rice\nLa Mian')
+                                        bot.sendMessage(chat_id, 'Store(s) Available: \nZi Char / Fried Rice ⭐⭐⭐⭐⭐\nLa Mian ⭐⭐')
                                         sys.exit()
                                 #================= if type of food not determined ===============
                                 else:
@@ -220,15 +220,15 @@ def on_chat_message(msg):
                                 #================= if type of food has been determined... =======
                                 if 'Chinese' in msg['text']:
                                         print('GIMME THE Chinese FOOD REVIEW OH MY GOD')
-                                        bot.sendMessage(chat_id, 'Store(s) Available: \nJiu Li Xiang Chuan Cai\nChinese Cuisine\nXian Noodles')
+                                        bot.sendMessage(chat_id, 'Store(s) Available: \nJiu Li Xiang Chuan Cai ⭐\nChinese Cuisine ⭐⭐⭐⭐⭐\nXian Noodles ⭐⭐⭐')
                                         sys.exit()
                                 if 'Western' in msg['text']:
                                         print('GIMME THE Western FOOD REVIEW OH MY GOD')
-                                        bot.sendMessage(chat_id, 'Store(s) Available: \nWestern')
+                                        bot.sendMessage(chat_id, 'Store(s) Available: \nWestern ⭐⭐⭐⭐')
                                         sys.exit()
                                 if 'Indian' in msg['text']:
                                         print('GIMME THE Indian FOOD REVIEW OH MY GOD')
-                                        bot.sendMessage(chat_id, 'Store(s) Available: \nIndian')
+                                        bot.sendMessage(chat_id, 'Store(s) Available: \nIndian ⭐⭐⭐⭐')
                                         sys.exit()
                                 #================= if type of food not determined ===============
                                 else:
@@ -238,23 +238,23 @@ def on_chat_message(msg):
                                 #================= if type of food has been determined... =======
                                 if 'Korean' in msg['text']:
                                         print('GIMME THE Korean FOOD REVIEW OH MY GOD')
-                                        bot.sendMessage(chat_id, 'Store(s) Available: \nKorean Food')
+                                        bot.sendMessage(chat_id, 'Store(s) Available: \nKorean Food ⭐⭐⭐⭐')
                                         sys.exit()
                                 if 'Japanese' in msg['text']:
                                         print('GIMME THE Japanese FOOD REVIEW OH MY GOD')
-                                        bot.sendMessage(chat_id, 'Store(s) Available: \n7 Fukijin Japanese Food')
+                                        bot.sendMessage(chat_id, 'Store(s) Available: \n7 Fukijin Japanese Food ⭐⭐⭐⭐⭐')
                                         sys.exit()
                                 if 'Chinese' in msg['text']:
                                         print('GIMME THE Chinese FOOD REVIEW OH MY GOD')
-                                        bot.sendMessage(chat_id, 'Store(s) Available: \nMixed Veg Rice\nSi Chuan Mei Shi')
+                                        bot.sendMessage(chat_id, 'Store(s) Available: \nMixed Veg Rice ⭐\nSi Chuan Mei Shi ⭐⭐⭐')
                                         sys.exit()
                                 if 'Western' in msg['text']:
                                         print('GIMME THE Western FOOD REVIEW OH MY GOD')
-                                        bot.sendMessage(chat_id, 'Store(s) Available: \nWaffles & Pastries')
+                                        bot.sendMessage(chat_id, 'Store(s) Available: \nWaffles & Pastries ⭐⭐⭐⭐⭐')
                                         sys.exit()
                                 if 'Indian' in msg['text']:
                                         print('GIMME THE Indian FOOD REVIEW OH MY GOD')
-                                        bot.sendMessage(chat_id, 'Store(s) Available: \nIndian Food')
+                                        bot.sendMessage(chat_id, 'Store(s) Available: \nIndian Food ⭐⭐⭐')
                                         sys.exit()
                                 #================= if type of food not determined ===============
                                 else:
@@ -264,19 +264,19 @@ def on_chat_message(msg):
                                 #================= if type of food has been determined... =======
                                 if 'Korean' in msg['text']:
                                         print('GIMME THE Korean FOOD REVIEW OH MY GOD')
-                                        bot.sendMessage(chat_id, 'Store(s) Available: \nKorean Cuisine')
+                                        bot.sendMessage(chat_id, 'Store(s) Available: \nKorean Cuisine ⭐⭐⭐⭐⭐')
                                         sys.exit()
                                 if 'Japanese' in msg['text']:
                                         print('GIMME THE Japanese FOOD REVIEW OH MY GOD')
-                                        bot.sendMessage(chat_id, 'Store(s) Available: \nJapanese Cuisine')
+                                        bot.sendMessage(chat_id, 'Store(s) Available: \nJapanese Cuisine ⭐⭐⭐⭐⭐')
                                         sys.exit()
                                 if 'Chinese' in msg['text']:
                                         print('GIMME THE Chinese FOOD REVIEW OH MY GOD')
-                                        bot.sendMessage(chat_id, 'Store(s) Available: \nNoodle Delight\nChinese Cuisine')
+                                        bot.sendMessage(chat_id, 'Store(s) Available: \nNoodle Delight ⭐⭐⭐⭐\nChinese Cuisine ⭐')
                                         sys.exit()
                                 if 'Western' in msg['text']:
                                         print('GIMME THE Western FOOD REVIEW OH MY GOD')
-                                        bot.sendMessage(chat_id, 'Store(s) Available: \nWestern Food')
+                                        bot.sendMessage(chat_id, 'Store(s) Available: \nWestern Food ⭐⭐⭐')
                                         sys.exit()
                                 #================= if type of food not determined ===============
                                 else:
@@ -286,11 +286,11 @@ def on_chat_message(msg):
                                 #================= if type of food has been determined... =======
                                 if 'Chinese' in msg['text']:
                                         print('GIMME THE Chinese FOOD REVIEW OH MY GOD')
-                                        bot.sendMessage(chat_id, 'Store(s) Available: \nTaiwan\nSi Chuan\nAsian Food Delights\nBan Mian-Fish Soup')
+                                        bot.sendMessage(chat_id, 'Store(s) Available: \nTaiwan ⭐⭐⭐\nSi Chuan ⭐⭐\nAsian Food Delights ⭐⭐\nBan Mian-Fish Soup ⭐⭐⭐')
                                         sys.exit()
                                 if 'Malay' in msg['text']:
                                         print('GIMME THE Malay FOOD REVIEW OH MY GOD')
-                                        bot.sendMessage(chat_id, 'Store(s) Available: \nMuslim Malay')
+                                        bot.sendMessage(chat_id, 'Store(s) Available: \nMuslim Malay ⭐⭐⭐⭐')
                                         sys.exit()
                                 #================= if type of food not determined ===============
                                 else:
@@ -300,15 +300,15 @@ def on_chat_message(msg):
                                 #================= if type of food has been determined... =======
                                 if 'Japanese' in msg['text']:
                                         print('GIMME THE Japanese FOOD REVIEW OH MY GOD')
-                                        bot.sendMessage(chat_id, 'Store(s) Available: \nJapanese Food')
+                                        bot.sendMessage(chat_id, 'Store(s) Available: \nJapanese Food ⭐⭐⭐⭐')
                                         sys.exit()
                                 if 'Chinese' in msg['text']:
                                         print('GIMME THE Chinese FOOD REVIEW OH MY GOD')
-                                        bot.sendMessage(chat_id, 'Store(s) Available: \nChinese Ramen\nSignature Dishes With Rice\nMala Hot Pot\nEconomical Rice')
+                                        bot.sendMessage(chat_id, 'Store(s) Available: \nChinese Ramen ⭐⭐⭐\nSignature Dishes With Rice ⭐⭐\nMala Hot Pot ⭐⭐\nEconomical Rice ⭐⭐⭐⭐')
                                         sys.exit()
                                 if 'Indian' in msg['text']:
                                         print('GIMME THE Indian FOOD REVIEW OH MY GOD')
-                                        bot.sendMessage(chat_id, 'Store(s) Available: \nIndian Food')
+                                        bot.sendMessage(chat_id, 'Store(s) Available: \nIndian Food ⭐⭐')
                                         sys.exit()
                                 #================= if type of food not determined ===============
                                 else:
@@ -318,19 +318,19 @@ def on_chat_message(msg):
                                 #================= if type of food has been determined... =======
                                 if 'Chinese' in msg['text']:
                                         print('GIMME THE Chinese FOOD REVIEW OH MY GOD')
-                                        bot.sendMessage(chat_id, 'Store(s) Available: \nMixed Veg Rice\nTraditional Dough Fritters And Miniwok\nTraditional Handmade Fish Ball Noodle\nChicken Rice\nAh Boon’s Fish Soup\nClaypot & Porridge')
+                                        bot.sendMessage(chat_id, 'Store(s) Available: \nMixed Veg Rice ⭐⭐⭐\nTraditional Dough Fritters And Miniwok ⭐⭐⭐\nTraditional Handmade Fish Ball Noodle ⭐⭐⭐\nChicken Rice ⭐⭐\nAh Boon’s Fish Soup ⭐⭐⭐\nClaypot & Porridge ⭐⭐')
                                         sys.exit()
                                 if 'Western' in msg['text']:
                                         print('GIMME THE Western FOOD REVIEW OH MY GOD')
-                                        bot.sendMessage(chat_id, 'Store(s) Available: \nWestern Cuisine')
+                                        bot.sendMessage(chat_id, 'Store(s) Available: \nWestern Cuisine ⭐⭐⭐⭐')
                                         sys.exit()
                                 if 'Malay' in msg['text']:
                                         print('GIMME THE Malay FOOD REVIEW OH MY GOD')
-                                        bot.sendMessage(chat_id, 'Store(s) Available: \nNasi Padang And Indian Cuisine')
+                                        bot.sendMessage(chat_id, 'Store(s) Available: \nNasi Padang And Indian Cuisine ⭐⭐⭐')
                                         sys.exit()
                                 if 'Indian' in msg['text']:
                                         print('GIMME THE Indian FOOD REVIEW OH MY GOD')
-                                        bot.sendMessage(chat_id, 'Store(s) Available: \nNasi Padang And Indian Cuisine')
+                                        bot.sendMessage(chat_id, 'Store(s) Available: \nNasi Padang And Indian Cuisine ⭐⭐⭐')
                                         sys.exit()
                                 #================= if type of food not determined ===============
                                 else:
@@ -340,31 +340,31 @@ def on_chat_message(msg):
                                 #================= if type of food has been determined... =======
                                 if 'Korean' in msg['text']:
                                         print('GIMME THE Korean FOOD REVIEW OH MY GOD')
-                                        bot.sendMessage(chat_id, 'Store(s) Available: \nJapanese Korean Delight')
+                                        bot.sendMessage(chat_id, 'Store(s) Available: \nJapanese Korean Delight ⭐⭐⭐⭐')
                                         sys.exit()
                                 if 'Japanese' in msg['text']:
                                         print('GIMME THE Japanese FOOD REVIEW OH MY GOD')
-                                        bot.sendMessage(chat_id, 'Store(s) Available: \nJapanese Korean Delight')
+                                        bot.sendMessage(chat_id, 'Store(s) Available: \nJapanese Korean Delight ⭐⭐⭐⭐')
                                         sys.exit()
                                 if 'Chinese' in msg['text']:
                                         print('GIMME THE Chinese FOOD REVIEW OH MY GOD')
-                                        bot.sendMessage(chat_id, 'Store(s) Available: \nMini Wok\nYong Tau Foo\nChicken Rice\nHand-Made Noodles\nMixed Rice\nCantonese Roast Duck\nSoup Delight\nVegetarian Food\nTaiwanese Cuisine\nXian Cuisine')
+                                        bot.sendMessage(chat_id, 'Store(s) Available: \nMini Wok ⭐⭐⭐\nYong Tau Foo ⭐⭐⭐⭐\nChicken Rice ⭐⭐⭐\nHand-Made Noodles ⭐⭐⭐\nMixed Rice ⭐⭐\nCantonese Roast Duck ⭐⭐⭐⭐\nSoup Delight ⭐⭐⭐⭐⭐\nVegetarian Food ⭐⭐\nTaiwanese Cuisine ⭐⭐⭐⭐\nXian Cuisine ⭐⭐⭐⭐⭐')
                                         sys.exit()
                                 if 'Western' in msg['text']:
                                         print('GIMME THE Western FOOD REVIEW OH MY GOD')
-                                        bot.sendMessage(chat_id, 'Store(s) Available: \nWestern Food\nBBQ Delight\nItalian Pasta')
+                                        bot.sendMessage(chat_id, 'Store(s) Available: \nWestern Food ⭐⭐⭐\nBBQ Delight ⭐⭐\nItalian Pasta ⭐⭐⭐')
                                         sys.exit()
                                 if 'Malay' in msg['text']:
                                         print('GIMME THE Malay FOOD REVIEW OH MY GOD')
-                                        bot.sendMessage(chat_id, 'Store(s) Available: \nMalay BBQ')
+                                        bot.sendMessage(chat_id, 'Store(s) Available: \nMalay BBQ ⭐⭐')
                                         sys.exit()
                                 if 'Indian' in msg['text']:
                                         print('GIMME THE Indian FOOD REVIEW OH MY GOD')
-                                        bot.sendMessage(chat_id, 'Store(s) Available: \nIndian Cuisine')
+                                        bot.sendMessage(chat_id, 'Store(s) Available: \nIndian Cuisine ⭐')
                                         sys.exit()
                                 if 'Vietnamese' in msg['text']:
                                         print('GIMME THE Vietnamese FOOD REVIEW OH MY GOD')
-                                        bot.sendMessage(chat_id, 'Store(s) Available: \nVietnamese Cuisine')
+                                        bot.sendMessage(chat_id, 'Store(s) Available: \nVietnamese Cuisine ⭐⭐⭐⭐⭐')
                                         sys.exit()
                                 #================= if type of food not determined ===============
                                 else:
@@ -374,23 +374,23 @@ def on_chat_message(msg):
                                 #================= if type of food has been determined... =======
                                 if 'Japanese' in msg['text']:
                                         print('GIMME THE Japanese FOOD REVIEW OH MY GOD')
-                                        bot.sendMessage(chat_id, 'Store(s) Available: \nJapanese Cuisine\nSalad And Bento Express')
+                                        bot.sendMessage(chat_id, 'Store(s) Available: \nJapanese Cuisine ⭐⭐⭐\nSalad And Bento Express ⭐⭐⭐⭐⭐')
                                         sys.exit()
                                 if 'Chinese' in msg['text']:
                                         print('GIMME THE Chinese FOOD REVIEW OH MY GOD')
-                                        bot.sendMessage(chat_id, 'Store(s) Available: \nVegetarian\nMixed Veg Rice\nDim Sum\nChinese Cuisine\nBan Mian Fish Soup\nYong Tau Foo\nChicken Rice\nKoka Mee Express')
+                                        bot.sendMessage(chat_id, 'Store(s) Available: \nVegetarian ⭐⭐⭐⭐⭐\nMixed Veg Rice ⭐⭐⭐⭐\nDim Sum ⭐⭐⭐\nChinese Cuisine ⭐⭐⭐⭐\nBan Mian Fish Soup ⭐⭐⭐⭐\nYong Tau Foo ⭐⭐⭐\nChicken Rice ⭐⭐⭐\nKoka Mee Express ⭐⭐⭐⭐')
                                         sys.exit()
                                 if 'Western' in msg['text']:
                                         print('GIMME THE Western FOOD REVIEW OH MY GOD')
-                                        bot.sendMessage(chat_id, 'Store(s) Available: \nPasta Express\nSalad And Bento Express')
+                                        bot.sendMessage(chat_id, 'Store(s) Available: \nPasta Express ⭐⭐⭐⭐\nSalad And Bento Express ⭐⭐⭐⭐⭐')
                                         sys.exit()
                                 if 'Malay' in msg['text']:
                                         print('GIMME THE Malay FOOD REVIEW OH MY GOD')
-                                        bot.sendMessage(chat_id, 'Store(s) Available: \nNasi Padang')
+                                        bot.sendMessage(chat_id, 'Store(s) Available: \nNasi Padang ⭐⭐⭐')
                                         sys.exit()
                                 if 'Indian' in msg['text']:
                                         print('GIMME THE Indian FOOD REVIEW OH MY GOD')
-                                        bot.sendMessage(chat_id, 'Store(s) Available: \nIndian Cuisine')
+                                        bot.sendMessage(chat_id, 'Store(s) Available: \nIndian Cuisine ⭐⭐⭐')
                                         sys.exit()
                                 #================= if type of food not determined ===============
                                 else:
@@ -400,19 +400,19 @@ def on_chat_message(msg):
                                 #================= if type of food has been determined... =======
                                 if 'Chinese' in msg['text']:
                                         print('GIMME THE Chinese FOOD REVIEW OH MY GOD')
-                                        bot.sendMessage(chat_id, 'Store(s) Available: \nVegetarian\nChicken Rice\nBan Mian & Fish Soup\nNoodle\nA-La-Carte\nChinese Food')
+                                        bot.sendMessage(chat_id, 'Store(s) Available: \nVegetarian ⭐⭐⭐⭐\nChicken Rice ⭐⭐⭐⭐⭐\nBan Mian & Fish Soup ⭐⭐⭐\nNoodle ⭐⭐⭐⭐\nA-La-Carte ⭐⭐\nChinese Food ⭐')
                                         sys.exit()
                                 if 'Western' in msg['text']:
                                         print('GIMME THE Western FOOD REVIEW OH MY GOD')
-                                        bot.sendMessage(chat_id, 'Store(s) Available: \nSandwiches & Salad Bar\nWestern Food')
+                                        bot.sendMessage(chat_id, 'Store(s) Available: \nSandwiches & Salad Bar ⭐⭐⭐⭐⭐\nWestern Food ⭐⭐⭐⭐')
                                         sys.exit()
                                 if 'Malay' in msg['text']:
                                         print('GIMME THE Malay FOOD REVIEW OH MY GOD')
-                                        bot.sendMessage(chat_id, 'Store(s) Available: \nNasi Padang\nMuslim Food')
+                                        bot.sendMessage(chat_id, 'Store(s) Available: \nNasi Padang ⭐⭐\nMuslim Food ⭐⭐⭐')
                                         sys.exit()
                                 if 'Indian' in msg['text']:
                                         print('GIMME THE Indian FOOD REVIEW OH MY GOD')
-                                        bot.sendMessage(chat_id, 'Store(s) Available: \nIndian')
+                                        bot.sendMessage(chat_id, 'Store(s) Available: \nIndian ⭐⭐')
                                         sys.exit()
                                 #================= if type of food not determined ===============
                                 else:
